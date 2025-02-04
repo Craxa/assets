@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "address": "0x8178c9617957fd36F56827d821b26771F438fCf6",
+  "logoURI": "https://i.imgur.com/BKDHO3m.png",
+  "website": "https://yourprojectwebsite.com",
+  "description": "This token represents Tether USD on our platform."
+}
